@@ -1,7 +1,7 @@
 # VMinstallation
 
 
-1. CLOUDERA - (copy and paste in url)
+1. CLOUDERA - (click link and then click download and then click download_anyway)
 
 https://drive.google.com/file/d/1ETimdbWDLJYn4k-iieHIdMbaOE12wXa7/view?usp=sharing
 
