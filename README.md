@@ -8,7 +8,7 @@ https://drive.google.com/file/d/1ETimdbWDLJYn4k-iieHIdMbaOE12wXa7/view?usp=shari
 
 3. VMWARE17 -
 
-https://www.vmware.com/content/vmware/vmware-published-sites/us/products/workstation-pro
+https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html
 
 
 
